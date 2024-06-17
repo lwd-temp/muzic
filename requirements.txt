@@ -1,4 +1,4 @@
-scikit-learn==0.21.3
+scikit-learn==1.5.0
 miditoolkit==0.1.14
 fastBPE
 dtw-python
@@ -10,8 +10,8 @@ pretty_midi
 PyYAML
 pypianoroll
 fairseq==0.10.0
-torch==1.7.1
-transformers==3.5.1
+torch==1.13.1
+transformers==4.38.0
 pypinyin==0.39.1
 jieba==0.42.1
 tensorboard==2.4.0
